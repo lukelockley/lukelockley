@@ -1,9 +1,16 @@
+## Hello
 - 👋 Hi, I’m @lukelockley
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
+## About Me
+- 👀 A sports buff who combines his knowledge and skills in statistical analysis with an 87.7% chance of getting it right
+
+## Blog & Packages
+- ✍️ Current blog [here](luke-lockley.medium.com)
+- 📦 Proud maintainer of [cricket.functions](https://github.com/lukelockley/cricket.functions)
+
+## Contact
+- 🐦 [Twitter](https://twitter.com/luke_lockley)
+- 📖 [Blog](luke-lockley.medium.com) 
 <!---
 lukelockley/lukelockley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
