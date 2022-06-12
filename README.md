@@ -6,7 +6,7 @@
 
 ## Blog & Packages
 - ✍️ Monthly Blog [here](https://luke-lockley.medium.com/)
-- 📦 Proud maintainer CRAN package [howzatR](https://cran.r-project.org/web/packages/howzatR/index.html)
+- 📦 Proud maintainer of CRAN package [howzatR](https://cran.r-project.org/web/packages/howzatR/index.html)
 - Check out with `install.packages("howzatR")` in R/RStudio
 
 ## Contact
