@@ -5,7 +5,7 @@
 - 👀 A sports buff who combines his knowledge and skills in statistical analysis with an 87.7% chance of getting it right
 
 ## Blog & Packages
-- ✍️ Monthly Blog [here](https://luke-lockley.medium.com/)
+- ✍️ Blog [here](https://luke-lockley.medium.com/)
 - 📦 Proud maintainer of CRAN package [howzatR](https://cran.r-project.org/web/packages/howzatR/index.html)
 - Check out with `install.packages("howzatR")` in R/RStudio
 
